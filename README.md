@@ -114,8 +114,12 @@ Dataset ini di dapatkan dari kaggle dengan user name Arash Nic, dalam dataset te
 
 Terdapat beberapa missing value pada dataset dengan rincian seperti berikut
 ![miss_book](img/missing_books.png)
+
 Books
+
+
 ![miss_ratings](img/missing_ratings.png)
+
 Ratings
 
 Tidak ada data duplikat pada kedua dataset ini
