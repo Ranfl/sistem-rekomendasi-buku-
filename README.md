@@ -113,6 +113,8 @@ Dataset ini di dapatkan dari kaggle dengan user name Arash Nic, dalam dataset te
 | Ratings | 1,149,780    | 3            |
 
 Terdapat beberapa missing value pada dataset dengan rincian seperti berikut
+
+
 ![miss_book](img/missing_books.png)
 
 Books
